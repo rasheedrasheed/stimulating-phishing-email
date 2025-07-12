@@ -1,2 +1,2 @@
-# stimulating-phishing-email
-stimulating phishing email
+# simulating-phishing-email
+simulating a phishing email attack
